@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, deep learning frameworks**
 
-- 💬 Ask me about - Machine Learning - Figma tricks - UI/UX design stuff - Random ideas & side projects!!
+- 💬 Ask me about - Machine Learning - Figma tricks - UI/UX design stuff - Graphic Designing!!
 
 - 📫 How to reach me **bhagyashree0613@gmail.com**
 
