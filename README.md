@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyashreehehe&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyashreehehe" /> </p>
 
-- 🔭 I’m currently working on **🧠 Machine Learning Projects 🎨 UI/UX prototypes in Figma **
+- 🔭 I’m currently working on 🧠 Machine Learning Projects 🎨 UI/UX prototypes in Figma 
 
 - 🌱 I’m currently learning **Flutter, deep learning frameworks**
 
-- 💬 Ask me about **- Machine Learning - Figma tricks - UI/UX design stuff - Random ideas & side projects!**
+- 💬 Ask me about - Machine Learning - Figma tricks - UI/UX design stuff - Random ideas & side projects!!
 
 - 📫 How to reach me **bhagyashree0613@gmail.com**
 
