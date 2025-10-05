@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhagyashree Sharma</h1>
-<h3 align="center">Just figuring stuff out. Curious mind, messy projects, progress!</h3>
+<h3 align="center">Just figuring stuff out :3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagyashreehehe&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyashreehehe" /> </p>
 
-- 🔭 I’m currently working on **🧠 Machine Learning Projects 🎨 UI/UX prototypes in Figma 📱 Playing with Flutter**
+- 🔭 I’m currently working on **🧠 Machine Learning Projects 🎨 UI/UX prototypes in Figma **
 
 - 🌱 I’m currently learning **Flutter, deep learning frameworks**
 
-- 💬 Ask me about **- ML basics - Figma tricks - UI/UX design stuff - Random ideas & side projects!**
+- 💬 Ask me about **- Machine Learning - Figma tricks - UI/UX design stuff - Random ideas & side projects!**
 
 - 📫 How to reach me **bhagyashree0613@gmail.com**
 
