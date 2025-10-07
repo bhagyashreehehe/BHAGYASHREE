@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Deep Learning Frameworks, Flutter**
 
-- 👨‍💻 My GD and UI/UX projects are available at [https://bhagyashree.framer.website/](https://bhagyashree.framer.website/)
-
 - 💬 Ask me about **Machine Learning - Figma tricks - UI/UX design stuff - Adobe Create Cloud!!**
 
 - 📫 How to reach me **bhagyashree0613@gmail.com**
