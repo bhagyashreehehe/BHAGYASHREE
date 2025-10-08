@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **Graphic Designing Projects and Machine Learning Projects**
 
 - 🌱 I’m currently learning **Deep Learning Frameworks, Flutter**
-  
-- 👨‍💻 My GD and UI/UX projects are available at [https://bhagyashreesharma.framer.website/](https://bhagyashreesharma.framer.website/)
 
 - 💬 Ask me about **Machine Learning - Figma tricks - Designing stuff - Adobe Create Cloud!!**
 
